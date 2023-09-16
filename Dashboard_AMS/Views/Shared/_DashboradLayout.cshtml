@@ -1,0 +1,297 @@
+﻿@using Dashboard_AMS.Models;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="description" content="Materialize is a Material Design Admin Template,It's modern, responsive and based on Material Design by Google. ">
+    <meta name="keywords" content="materialize, admin template, dashboard template, flat admin template, responsive admin template,">
+    <title>Materialize - Material Design Admin Template</title>
+    <!-- Favicons-->
+    <link rel="icon" href=@Url.Content("/Content/images/favicon/favicon-32x32.png") sizes="32x32">
+    <!-- Favicons-->
+    <link rel="apple-touch-icon-precomposed" href=@Url.Content("/Content/images/favicon/apple-touch-icon-152x152.png")>
+    <!-- For iPhone -->
+    <meta name="msapplication-TileColor" content="#00bcd4">
+    <meta name="msapplication-TileImage" content=@Url.Content("/Content/images/favicon/mstile-144x144.png")>
+    <!-- For Windows Phone -->
+    <!-- CORE CSS-->
+    <link href=@Url.Content("/Content/css/materialize.css") type="text/css" rel="stylesheet" media="screen,projection">
+    <link href=@Url.Content("/Content/css/style.css") type="text/css" rel="stylesheet" media="screen,projection">
+    <!-- CSS style Horizontal Nav-->
+    <link href=@Url.Content("/Content/css/layouts/style-horizontal.css") type="text/css" rel="stylesheet" media="screen,projection">
+    <!-- Custome CSS-->
+    <link href=@Url.Content("/Content/css/custom/custom-style.css") type="text/css" rel="stylesheet" media="screen,projection">
+
+    <link href=@Url.Content("/js/plugins/prism/prism.css") type="text/css" rel="stylesheet" media="screen,projection">
+
+    <link href=@Url.Content("/Content/js/plugins/data-tables/css/jquery.dataTables.min.css") type="text/css" rel="stylesheet" media="screen,projection">
+
+    <!-- INCLUDED PLUGIN CSS ON THIS PAGE -->
+    <link href=@Url.Content("/Content/js/plugins/perfect-scrollbar/perfect-scrollbar.css") type="text/css" rel="stylesheet" media="screen,projection">
+
+</head>
+<body>
+    <!-- Start Page Loading -->
+    <div id="loader-wrapper">
+        <div id="loader"></div>
+        <div class="loader-section section-left"></div>
+        <div class="loader-section section-right"></div>
+    </div>
+    <!-- End Page Loading -->
+    <!-- //////////////////////////////////////////////////////////////////////////// -->
+    <!-- START HEADER -->
+    <header id="header" class="page-topbar">
+        <!-- start header nav-->
+        <div class="navbar-fixed">
+            <nav class="navbar-color">
+                <div class="nav-wrapper">
+                    <ul class="left">
+                        <li><h1 class="logo-wrapper"><a href="@Url.Action("Index", "Dashboard")" class="brand-logo darken-1"><img src=@Url.Content("/Content/images/materialize-logo.png") alt="materialize logo"></a> <span class="logo-text">Materialize</span></h1></li>
+                    </ul>
+                    <ul id="nav-mobile" class="right hide-on-med-and-down">
+                        <li>
+                            <a class="dropdown-menu white-text" href="#!" data-activates="User">
+                                <span>@Authentication.ename<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <ul id="User" class="dropdown-content dropdown-horizontal-list">
+                        @using (Html.BeginForm("Logout", "AMS"))
+                {
+                    <li><button class="btn cyan waves-effect waves-light" type="submit">Logout</button></li>
+        }
+                    </ul>
+                </div>
+            </nav>
+
+            @if (Authentication.roleid == 1)
+    {
+        <!-- HORIZONTL NAV START-->
+        <nav id="horizontal-nav" class="white hide-on-med-and-down">
+            <div class="nav-wrapper">
+                <ul id="nav-mobile" class="left hide-on-med-and-down">
+                    <li>
+                        <a href="@Url.Action("Index", "Dashboard")" class="cyan-text">
+                            <i class="mdi-action-dashboard"></i>
+                            <span>Dashboard</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Employees">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Employees<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Jobs">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Jobs<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Department">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Department<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("AttendanceHistory", "Attendance")" class="cyan-text">
+                            <i class="mdi-action-dashboard"></i>
+                            <span>Attendance</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Leaves">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Leaves<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Reports">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Reports<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Leaves -->
+        <ul id="Leaves" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("LeavesHistory", "Leaves")" class="cyan-text">Leaves History</a></li>
+            <li><a href="@Url.Action("ShowAll_Leaves", "Leaves")" class="cyan-text">Leave Details</a></li>
+            <li><a href="@Url.Action("ApplyLeave", "Leaves")" class="cyan-text">Apply Leave</a></li>
+        </ul>
+
+        <!-- Employees -->
+        <ul id="Employees" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("AddEmployeedetails", "Employees")" class="cyan-text">Add New Employee</a></li>
+            <li><a href="@Url.Action("EmployeesDetail", "Employees")" class="cyan-text">Employee Details</a></li>
+        </ul>
+
+        <!-- Jobs -->
+        <ul id="Jobs" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("AddNewJob", "Jobs")" class="cyan-text">Add New Job</a></li>
+            <li><a href="@Url.Action("JobDetails", "Jobs")" class="cyan-text">Jobs List</a></li>
+        </ul>
+
+        <!-- Department -->
+        <ul id="Department" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("AddNewDepartment", "Department")" class="cyan-text">Add New Department</a></li>
+            <li><a href="@Url.Action("DepartmentsList", "Department")" class="cyan-text">Department List</a></li>
+            <li><a href="@Url.Action("AddNewBranch", "Department")" class="cyan-text">Add New Branch</a></li>
+            <li><a href="@Url.Action("BranchList", "Department")" class="cyan-text">Branch List</a></li>
+        </ul>
+
+        <!-- Reports -->
+        <ul id="Reports" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("AttendanceReport", "Reports")" class="cyan-text">Attendance Report</a></li>
+            <li><a href="@Url.Action("LeavesReport", "Reports")" class="cyan-text">Leave Report</a></li>
+        </ul>
+
+        <!-- HORIZONTL NAV END-->
+}
+            @if (Authentication.roleid != 1)
+    {
+        <!-- HORIZONTL NAV START-->
+        <nav id="horizontal-nav" class="white hide-on-med-and-down">
+            <div class="nav-wrapper">
+                <ul id="nav-mobile" class="left hide-on-med-and-down">
+                    <li>
+                        <a href="@Url.Action("Index", "Dashboard")" class="cyan-text">
+                            <i class="mdi-action-dashboard"></i>
+                            <span>Dashboard</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Employees">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Employees<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Jobs">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Jobs<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Department">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Department<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("AttendanceHistory", "Attendance")" class="cyan-text">
+                            <i class="mdi-action-dashboard"></i>
+                            <span>Attendance</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-menu cyan-text" href="#!" data-activates="Leaves">
+                            <i class="mdi-action-invert-colors"></i>
+                            <span>Leaves<i class="mdi-navigation-arrow-drop-down right"></i></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Leaves -->
+        <ul id="Leaves" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("LeavesHistory", "Leaves")" class="cyan-text">Leaves History</a></li>
+            <li><a href="@Url.Action("ApplyLeave", "Leaves")" class="cyan-text">Apply Leave</a></li>
+        </ul>
+
+        <!-- Employees -->
+        <ul id="Employees" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("EmployeesDetail", "Employees")" class="cyan-text">Employee Details</a></li>
+        </ul>
+
+        <!-- Jobs -->
+        <ul id="Jobs" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("JobDetails", "Jobs")" class="cyan-text">Jobs List</a></li>
+        </ul>
+
+        <!-- Department -->
+        <ul id="Department" class="dropdown-content dropdown-horizontal-list">
+            <li><a href="@Url.Action("DepartmentsList", "Department")" class="cyan-text">Department List</a></li>
+            <li><a href="@Url.Action("BranchList", "Department")" class="cyan-text">Branch List</a></li>
+        </ul>
+
+        <!-- HORIZONTL NAV END-->
+}
+        </div>
+        <!-- end header nav-->
+    </header>
+    <!-- END HEADER -->
+    <!-- //////////////////////////////////////////////////////////////////////////// -->
+    <!-- START MAIN -->
+    <div id="main">
+        <!-- START WRAPPER -->
+        <!-- START CONTENT -->
+        <div class="wrapper">
+            <section id="content">
+                <!--start container-->
+                <div class="container">
+                    @RenderBody()
+                </div>
+                <!--end container-->
+            </section>
+            <!-- END CONTENT -->
+        </div>
+        <!-- END WRAPPER -->
+    </div>
+    <!-- END MAIN -->
+    <!-- //////////////////////////////////////////////////////////////////////////// -->
+    <!-- START FOOTER -->
+    <footer class="page-footer">
+        <div class="footer-copyright">
+            <div class="container">
+                Copyright © 2018 <a class="grey-text text-lighten-4" href="Index">AMS</a> All rights reserved.
+                <span class="right"> Design and Developed by <a class="grey-text text-lighten-4" href="http://codeoutsourcers.com/">CodeOutSourcers</a></span>
+            </div>
+        </div>
+    </footer>
+    <!-- END FOOTER -->
+    <!-- ================================================
+    Scripts
+    ================================================ -->
+    <!-- jQuery Library -->
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/jquery-1.11.2.min.js")></script>
+    <!--materialize js-->
+    <script type="text/javascript" src=@Url.Content("/Content/js/materialize.js")></script>
+    <!--scrollbar-->
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/perfect-scrollbar/perfect-scrollbar.min.js")></script>
+
+    <!--prism-->
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/prism/prism.js")></script>
+
+    <!-- sparkline -->
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/sparkline/jquery.sparkline.min.js")></script>
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/sparkline/sparkline-script.js")></script>
+
+
+    <!-- data-tables -->
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/data-tables/js/jquery.dataTables.min.js")></script>
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/data-tables/data-tables-script.js")></script>
+
+    <!--jvectormap-->
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js")></script>
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js")></script>
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins/jvectormap/vectormap-script.js")></script>
+
+
+    <!--plugins.js - Some Specific JS codes for Plugin Settings-->
+    <script type="text/javascript" src=@Url.Content("/Content/js/plugins.js")></script>
+    <!--custom-script.js - Add your own theme custom JS-->
+    <script type="text/javascript" src=@Url.Content("/Content/js/custom-script.js")></script>
+</body>
+</html>

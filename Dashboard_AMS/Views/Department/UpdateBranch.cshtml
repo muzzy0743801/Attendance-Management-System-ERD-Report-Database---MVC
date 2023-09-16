@@ -1,0 +1,40 @@
+﻿@model Dashboard_AMS.Models.Department
+
+@{
+    ViewBag.Title = "UpdateBranch";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+    <div id="basic-form" class="section">
+        <div class="row">
+            <div class="col s12 m12 l10">
+                <div class="card-panel">
+                    <h4 class="header2">Update Branch</h4>
+                    <div class="row">
+                        <div class="col s12">
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    @Html.EditorFor(model => model.Branch_name, new { htmlAttributes = new { @id = "branchname", @required = "required" } })
+                                    <label for="branch_name">Branch Name</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <button class="btn cyan waves-effect waves-light right" type="submit" name="action">
+                                        Save Changes
+                                        <i class="mdi-content-send right"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

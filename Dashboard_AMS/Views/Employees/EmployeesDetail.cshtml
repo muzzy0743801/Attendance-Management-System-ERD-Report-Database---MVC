@@ -1,0 +1,105 @@
+﻿@*@model Dashboard_AMS.Models.Employees*@
+@model IEnumerable<Dashboard_AMS.Models.Employees>
+@using Dashboard_AMS.Models;
+
+@{
+    ViewBag.Title = "EmployeesDetail";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+
+@using (Html.BeginForm("sort", "Employees"))
+{
+    <div class="row" style="width: 34%; display:  inline-block; float:  left;">
+        <div class="col s12 m8 l12">
+            <div class="card-panel">
+                <div class="row">
+                    <div class="col s12">
+                        <select class="form-control" id="abc" name="abc">
+                            <option value="Emp_ID">EMP ID</option>
+                            <option value="First_Name">First Name</option>
+                            <option value="DOB">Date of Birth</option>
+                            <option value="JOB_ID">Job</option>
+                            <option value="Salary">Salary</option>
+                            <option value="Dept_ID">Department</option>
+                            <option Branch_ID="Branch_ID">Branch</option>
+                            <option value="Date_Join">Joined Date</option>
+                        </select>
+                        <button class="btn cyan waves-effect waves-light" type="submit">Sort</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+@using (Html.BeginForm("New_Action", "Employees"))
+{
+    <div class="row">
+        <div class="col s12 m8 l8">
+            <div class="card-panel">
+                <div class="row">
+                    <div class="col s12">
+                        <input type="text" name="abc" placeholder="Search By Employee ID" />
+                        <button class="btn cyan waves-effect waves-light" type="submit">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<div id="responsive-table">
+    <h4 class="header">Employees Detail</h4>
+    <div class="row">
+        <div class="col s12 m8 l12">
+            <div class="card-panel">
+                <table class="responsive-table">
+                    <thead>
+                        <tr>
+                            <th data-field="">ID</th>
+                            <th data-field="">First Name</th>
+                            <th data-field="">Last Name</th>
+                            <th data-field="">Dob</th>
+                            <th data-field="">CNIC</th>
+                            <th data-field="">Job Title</th>
+                            @if (Authentication.roleid == 1)
+                            {
+                            <th data-field="">Salary</th>
+                            }
+                            <th data-field="">Department</th>
+                            <th data-field="">Branch</th>
+                            <th data-field="">Join Date</th>
+                            @if (Authentication.roleid == 1)
+                            {
+                            <th data-field="">Action</th>
+                            }
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.empID</td>
+                                <td>@item.fname</td>
+                                <td>@item.lname</td>
+                                <td>@item.dob.Substring(0, 10)</td>
+                                <td>@item.cnic</td>
+                                <td>@item.job_title</td>
+                                @if (Authentication.roleid == 1)
+                                {
+                                <td>@item.salary</td>
+                                }
+                                <td>@item.dept_name</td>
+                                <td>@item.branch_name</td>
+                                <td>@item.joindate.Substring(0, 10)</td>
+                                @if (Authentication.roleid == 1)
+                                {
+                                <td>@Html.ActionLink("Edit", "UpdateEmployee", new { empID = item.empID }) @Html.ActionLink("Delete", "DeleteEmployee", new { empID = item.empID })</td>
+                                }
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

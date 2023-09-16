@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dashboard_AMS.Models.Attendance">
+    <Position X="0.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAQAAAIAAAAAgAAAAAEAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Attendance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_AMS.Models.Authentication">
+    <Position X="0.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAAAAAAAQgAAAIACMAAAAAAAAAAAAQAgAAAAA=</HashCode>
+      <FileName>Models\Authentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_AMS.Models.Connection">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_AMS.Models.Department">
+    <Position X="5.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AJAAAAAAAAAAABAAAAAAAAA0AACAoAQAAAAAABAgAEE=</HashCode>
+      <FileName>Models\Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_AMS.Models.Employees">
+    <Position X="10.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EBAQoAQQkJggJAAgAQAJABAQBAAABIBQAABwAgAgAIA=</HashCode>
+      <FileName>Models\Employees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_AMS.Models.Jobs">
+    <Position X="5.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ChAAAAQAAAAAAAAAAAIQAAAAAQAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Jobs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_AMS.Models.Leaves">
+    <Position X="8.25" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABQAAABAAABAAAAUIkGABAQABBgAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Leaves.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_AMS.Models.Reporting">
+    <Position X="3" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EBQQAAQwEApgJAAEAAAZAAAAAAAABABAAAASASAgAAA=</HashCode>
+      <FileName>Models\Reporting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

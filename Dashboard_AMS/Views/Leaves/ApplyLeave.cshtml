@@ -1,0 +1,57 @@
+﻿@model Dashboard_AMS.Models.Leaves
+
+@{
+    ViewBag.Title = "ApplyLeave";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+
+@using (Html.BeginForm("ApplyLeave", "Leaves", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div id="basic-form" class="section">
+        <div class="row">
+            <div class="col s12 m12 l10">
+                <div class="card-panel">
+                    <h4 class="header2">Apply for Leave</h4>
+                    <div class="row">
+                        <div class="col s12">
+                            <div class="row">
+                                <div class="col s12 m8 l9">
+                                    <div class="input-field col s6">
+                                        @Html.DropDownListFor(model => model.type_Id, new SelectList(ViewBag.leavetype, "type_Id", "leave_type"), "Select Leave Type")
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    @Html.EditorFor(model => model.description, new { htmlAttributes = new { @id = "descrip" , @required = "required" } })
+                                    <label for="description">Description</label>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    <label for="leavefrom">Leave From</label>
+                                    @Html.EditorFor(model => model.fromdate, new { htmlAttributes = new { @id = "leavefrom", @class = "datepicker", @required = "required" } })
+                                </div>
+                                <div class="input-field col s6">
+                                    <label for="leavetill">Leave Till</label>
+                                    @Html.EditorFor(model => model.todate, new { htmlAttributes = new { @id = "leavetill", @class = "datepicker", @required = "required" } })
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <button class="btn cyan waves-effect waves-light right" type="submit" name="action">
+                                        Save Changes
+                                        <i class="mdi-content-send right"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

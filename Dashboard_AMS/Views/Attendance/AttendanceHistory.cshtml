@@ -1,0 +1,48 @@
+﻿@*@model Dashboard_AMS.Models.Attendance*@
+@model IEnumerable<Dashboard_AMS.Models.Attendance>
+
+@{
+    ViewBag.Title = "AttendanceHistory";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+
+
+<div id="responsive-table">
+    <h4 class="header">Attendance History</h4>
+    <div class="row">
+        <div class="col s12 m8 l12">
+            <div class="card-panel">
+                <table class="responsive-table">
+                    <thead>
+                        <tr>
+                            
+                            <th data-field="attenddate">Attendance Date</th>
+                            <th data-field="timein">Time In</th>
+                            <th data-field="timeout">Time Out</th>
+                            <th data-field="timeout">Status</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+
+                            <td>@item.date</td>
+                            <td>@item.timeIN</td>
+                            <td>@item.timeOUT</td>
+                            <td>@item.status</td>
+                        </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+

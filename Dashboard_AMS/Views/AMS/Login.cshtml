@@ -1,0 +1,47 @@
+﻿@model Dashboard_AMS.Models.Authentication
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<p class="center">
+    @Html.ValidationMessage("Error")
+</p>
+        
+    <div class="col s12 z-depth-4 card-panel">
+        <form class="login-form">
+            <div class="row">
+                <div class="input-field col s12 center">
+                    <img src="images/login-logo.png" alt="" class="circle responsive-img valign profile-image-login">
+                    <p class="center login-form-text">Attedance Management System</p>
+                </div>
+            </div>
+            <div class="row margin">
+                <div class="input-field col s12">
+                    <i class="mdi-social-person-outline prefix"></i>
+                    @Html.EditorFor(model => model.email, new { htmlAttributes = new { @id = "username" , @autofocus = "autofocus" } })
+                    <!--   <input id="username" type="text"> -->
+                    <label for="username" class="center-align">Username</label>
+                </div>
+            </div>
+            <div class="row margin">
+                <div class="input-field col s12">
+                    <i class="mdi-action-lock-outline prefix"></i>
+                    @Html.PasswordFor(model => model.password, new { htmlAttributes = new { @id = "password" } })
+                    <!--<input id="password" type="password"> -->
+                    <label for="password">Password</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input type="submit" value="Login" class="btn waves-effect waves-light col s12">
+                </div>
+            </div>
+        </form>
+    </div>
+}

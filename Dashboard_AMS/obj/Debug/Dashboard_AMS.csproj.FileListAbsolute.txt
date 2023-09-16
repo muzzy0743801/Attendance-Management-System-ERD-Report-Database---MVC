@@ -1,0 +1,856 @@
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\Anus\Desktop\Ahmed Data and backup\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Project\Dashboard_AMS\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\Muhammad Usman\Desktop\Db project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\muhammad\Downloads\Compressed\Db_Project 04 04 2018\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 13.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 17.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+C:\Users\muhammad\Downloads\Compressed\Project 15.4.18\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+C:\Users\Anus\Desktop\Desktop Data\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+D:\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.exe.config
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csc.rsp
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.exe
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\csi.rsp
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.exe.config
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\vbc.rsp
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Razor.xml
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.xml
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Helpers.xml
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\System.Web.Mvc.xml
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.ReportViewer.Common.dll
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.xml
+F:\KIET Material\4 th semster\Database Management System\Db Project\Project 18.4.18\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.pdb
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe.config
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.rsp
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.exe
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.rsp
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe.config
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.rsp
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.Common.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.xml
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+D:\UNIVERSITY DATA\Semester 4\DATABASE MANAGMENT SYSTEM\PROJECT\Attendance Management System2\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.pdb
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe.config
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.rsp
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.exe
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.rsp
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe.config
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.rsp
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.Common.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.xml
+F:\KIET Material\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+F:\KIET Material\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+F:\KIET Material\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+F:\KIET Material\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.pdb
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe.config
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.rsp
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.exe
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.rsp
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe.config
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.rsp
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.Common.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.xml
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojResolveAssemblyReference.cache
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+F:\KIET Material\4 th semster\Database Management System\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csprojAssemblyReference.cache
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\Masood\Downloads\Attendance Management System_final\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll.config
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\Dashboard_AMS.pdb
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.exe.config
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\csc.rsp
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.exe
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\csi.rsp
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\System.AppContext.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.exe.config
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\vbc.rsp
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\Microsoft.ReportViewer.WinForms.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Razor.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Webpages.Razor.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Helpers.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\bin\System.Web.Mvc.xml
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.AssemblyReference.cache
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CoreCompileInputs.cache
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.csproj.CopyComplete
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.dll
+C:\Users\muxxa\Downloads\Attendance Management System\Dashboard_AMS\obj\Debug\Dashboard_AMS.pdb

@@ -1,0 +1,70 @@
+﻿@*@model Dashboard_AMS.Models.Department*@
+@model IEnumerable<Dashboard_AMS.Models.Department>
+
+@{
+    ViewBag.Title = "DepartmentsList";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+@using (Html.BeginForm("sorting", "Department"))
+{
+   <div class="row" style="width: 34%; display:  inline-block; float:  left;">
+        <div class="col s12 m8 l12">
+            <div class="card-panel">
+                <div class="row">
+                    <div class="col s12">
+                        <select class="form-control" id="abc" name="abc">
+                            <option value="Department_ID">Department ID</option>
+                            <option value="Dept_Name">Department Name</option>
+                        </select>
+                        <button class="btn cyan waves-effect waves-light" type="submit">Sort</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
+}
+@using (Html.BeginForm("New_Actions", "Department"))
+{
+    <div class="row">
+        <div class="col s12 m8 l8">
+            <div class="card-panel">
+                <div class="row">
+                    <div class="col s12">
+                        <input type="text" placeholder="Enter Department ID" name="abc" />
+                        <button class="btn cyan waves-effect waves-light" type="submit">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div id="responsive-table">
+    <h4 class="header">Department Details</h4>
+    <div class="row">
+        <div class="col s12 m8 l12">
+            <div class="card-panel">
+                <table class="responsive-table">
+                    <thead>
+                        <tr>
+                            <th data-field="id">Department ID</th>
+                            <th data-field="name">Department Name</th>
+                            <th data-field="">Actions</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.dept_id</td>
+                                <td>@item.deptname</td>
+                                <td>@Html.ActionLink("Update", "UpdateDepartment" , new { dept_id = item.dept_id })</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,78 @@
+﻿@*@model Dashboard_AMS.Models.Jobs*@
+@model IEnumerable<Dashboard_AMS.Models.Jobs>
+
+
+@{
+    ViewBag.Title = "JobDetails";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+
+@using (Html.BeginForm("sort", "Jobs"))
+{
+    <div class="row" style="width: 34%; display:  inline-block; float:  left;">
+        <div class="col s12 m8 l12">
+            <div class="card-panel">
+                <div class="row">
+                    <div class="col s12">
+                        <select class="form-control" id="abc" name="abc">
+                            <option value="Job_ID">Job ID</option>
+                            <option value="Job_Title">Job Titile</option>
+                        </select>
+                        <button class="btn cyan waves-effect waves-light" type="submit">Sort</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+@using (Html.BeginForm("New_Action", "Jobs"))
+{
+    <div class="row">
+        <div class="col s12 m8 l8">
+            <div class="card-panel">
+                <div class="row">
+                    <div class="col s12">
+                        <input type="text" placeholder="Search by Job ID" name="abc" />
+                        <button class="btn cyan waves-effect waves-light" type="submit">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+
+<div id="responsive-table">
+    <h4 class="header">Job Details</h4>
+    <div class="row">
+        <div class="col s12 m8 l12">
+            <div class="card-panel">
+                <table class="responsive-table">
+                    <thead>
+                        <tr>
+                            <th data-field="job_id">Job ID</th>
+                            <th data-field="job_title">Job Title</th>
+                            <th data-field="job_title">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.job_id</td>
+                                <td>@item.job_title</td>
+                                <td>@Html.ActionLink("Update", "UpdateJob", new { job_id = item.job_id })</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

@@ -1,0 +1,141 @@
+﻿@model IEnumerable<Dashboard_AMS.Models.Employees>
+@using Dashboard_AMS.Models;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+@if (ViewBag.timein == false)
+{
+    using (Html.BeginForm("Index", "Dashboard"))
+    {
+        <div class="row time_in">
+            <div class="col s12 m12 l12">
+                <div class="col s12 m10 l8">
+                    <h4>Welcome @Authentication.ename</h4>
+                    <p>Attendance management System is ready to use.</p>
+                </div>
+
+                <div class="col s12 m10 l4">
+                    <button class="btn cyan waves-effect waves-light right" id="Time_IN" style="margin-top: 30px;" type="submit" name="action">
+                        Mark Time IN
+                        <i class="mdi-content-send right"></i>
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    }
+}
+@if (ViewBag.timein == true)
+{
+    if (ViewBag.timeout == false)
+    {
+        using (Html.BeginForm("Timeout", "Dashboard"))
+        {
+            <div class="row time_out">
+                <div class="col s12 m12 l12">
+                    <div class="col s12 m10 l8">
+                        <h4>Welcome @Authentication.ename</h4>
+                        <p>Attendance management System is ready to use.</p>
+                    </div>
+                    <div class="col s12 m10 l4">
+                        <button class="btn cyan waves-effect waves-light right" id="Time_Out" style="margin-top: 30px;" type="submit" name="action">
+                            Mark Time OUT
+                            <i class="mdi-content-send right"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+}
+@if (ViewBag.timeout == true && ViewBag.timein == true)
+{
+    <div class="row time_out">
+        <div class="col s12 m12 l12">
+            <div class="col s12 m10 l8">
+                <h4>Welcome @Authentication.ename</h4>
+                <p>Attendance management System is ready to use.</p>
+            </div>
+            <div class="col s12 m10 l4">
+                <button class="btn cyan waves-effect waves-light right" id="Time_Out" style="margin-top: 30px;" type="submit" name="action">
+                    Attendance Marked
+                    <i class="mdi-content-send right"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+}
+<div id="card-widgets">
+    <div class="row">
+        <div class="col s12 m12 l4">
+            <ul id="task-card" class="collection with-header">
+                <li class="collection-header cyan">
+                    <h4 class="task-card-title">Recent Employees</h4>
+                </li>
+                @foreach (var item in Model)
+                {
+                     <li class="collection-item dismissable">
+                    <label for="task1">
+                        @item.fname  @item.lname <a href="#" class="secondary-content"></a> <span class="task-cat teal">@item.joindate</span>
+                    </label>
+                </li>
+                }
+            </ul>
+        </div>
+        @if (Authentication.roleid == 1)
+        {
+        <div class="col s12 m12 l4">
+            <ul id="task-card" class="collection with-header">
+                <li class="collection-header amber darken-2">
+                    <h4 class="task-card-title">Add</h4>
+                </li>
+                <li class="collection-item dismissable">
+                    <label for="task1">
+                        <a href="@Url.Action("AddEmployeedetails", "Employees")" class="blue-text">Add New Employee ..</a>
+                    </label>
+
+                </li>
+                <li class="collection-item dismissable">
+                    <label for="task2">
+                        <a href="@Url.Action("AddNewJob", "Jobs")" class="blue-text">Add New Job ..</a>
+                    </label>
+
+                </li>
+                <li class="collection-item dismissable">
+                    <label for="task3">
+                        <a href="@Url.Action("AddNewDepartment", "Department")" class="blue-text">Add New Department ..</a>
+                    </label>
+
+                </li>
+                <li class="collection-item dismissable">
+                    <label for="task4">
+                        <a href="@Url.Action("AddNewBranch", "Department")" class="blue-text">Add New Branch ..</a>
+                    </label>
+
+                </li>
+            </ul>
+        </div>
+
+        <div class="col s12 m12 l4">
+            <ul id="task-card" class="collection with-header">
+                <li class="collection-header deep-purple accent-4">
+                    <h4 class="task-card-title">Reports</h4>
+                </li>
+                <li class="collection-item dismissable">
+                    <label for="task1">
+                        <a href="@Url.Action("AttendanceReport", "Reports")" class="blue-text">View Attendance Report..</a>
+                    </label>
+                </li>
+                <li class="collection-item dismissable">
+                    <label for="task1">
+                        <a href="@Url.Action("LeavesReport", "Reports")" class="blue-text">View Leaves Report..</a>
+                    </label>
+
+                </li>
+            </ul>
+        </div>
+        }
+    </div>
+</div>

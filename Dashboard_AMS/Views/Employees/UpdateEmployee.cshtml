@@ -1,0 +1,94 @@
+﻿@model Dashboard_AMS.Models.Employees
+
+@{
+    ViewBag.Title = "UpdateEmployee";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+
+@using (Html.BeginForm("UpdateEmployee", "Employees", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div id="basic-form" class="section">
+        <div class="row">
+            <div class="col s12 m12 l10">
+                <div class="card-panel">
+                    <h4 class="header2">Update Employee Details</h4>
+                    <div class="row">
+                        <div class="col s12">
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    @Html.EditorFor(model => model.Username, new { htmlAttributes = new { @id = "username" , @autofocus = "autofocus", @required = "required" } })
+                                    <label for="username">Username</label>
+                                </div>
+                                <div class="input-field col s6">
+                                    @Html.PasswordFor(model => model.password, new { htmlAttributes = new { @id = "password", @required = "required" } })
+                                    <label for="password">Password</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    @Html.EditorFor(model => model.email, new { htmlAttributes = new { @id = "Email" , @autofocus = "autofocus", @required = "required" } })
+                                    <label for="Email">Email</label>
+                                </div>
+                                <div class="input-field col s6">
+                                    @Html.DropDownListFor(model => model.roleid, new SelectList(ViewBag.roles, "roleid", "role"), "Select User Role")
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    @Html.EditorFor(model => model.fname, new { htmlAttributes = new { @id = "fname" , @autofocus = "autofocus", @required = "required" }  })
+                                    <label for="first_name">First Name</label>
+                                </div>
+                                <div class="input-field col s6">
+                                    @Html.EditorFor(model => model.lname, new { htmlAttributes = new { @id = "lname", @autofocus = "autofocus", @required = "required" } })
+                                    <label for="Last_name">Last Name</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    @Html.EditorFor(model => model.cnic, new { htmlAttributes = new { @id = "CNIC", @maxlength = "13", @autofocus = "autofocus", @required = "required" } })
+                                    <label for="CNIC">CNIC</label>
+                                </div>
+                                <div class="input-field col s6">
+                                    <label for="Datebirth">Date of birth</label>
+                                    @Html.EditorFor(model => model.dob, new { htmlAttributes = new { @id = "Datebirth", @class = "datepicker", @autofocus = "autofocus", @required = "required" } })
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    @Html.DropDownListFor(model => model.jobid, new SelectList(ViewBag.jobtitle, "job_id", "job_title "), "Select Job Title")
+                                </div>
+                                <div class="input-field col s6"> 
+                                    @Html.DropDownListFor(model => model.deptid, new SelectList(ViewBag.dept, "dept_id", "deptname"), "Select Department")
+                                </div>
+                                <div class="input-field col s6">
+                                    @Html.DropDownListFor(model => model.branchid, new SelectList(ViewBag.branches, "Branch_id", "Branch_name"), "Select Branch")
+                                </div>
+                                <div class="input-field col s6">
+                                    @Html.EditorFor(model => model.salary, new { htmlAttributes = new { @id = "Salary", @autofocus = "autofocus", @required = "required" } })
+                                    <label for="Salary">Salary</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    <label for="Datejoin">Date of Join</label>
+                                    @Html.EditorFor(model => model.joindate, new { htmlAttributes = new { @id = "Datejoin", @class = "datepicker", @autofocus = "autofocus", @required = "required" } })
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <button class="btn cyan waves-effect waves-light right" type="submit" name="action">
+                                        Save Changes
+                                        <i class="mdi-content-send right"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

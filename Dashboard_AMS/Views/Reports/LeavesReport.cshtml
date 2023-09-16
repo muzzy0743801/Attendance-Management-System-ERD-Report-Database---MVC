@@ -1,0 +1,47 @@
+﻿@model Dashboard_AMS.Models.Reporting
+@{
+    ViewBag.Title = "LeavesReport";
+    Layout = "~/Views/Shared/_DashboradLayout.cshtml";
+}
+
+@using (Html.BeginForm("LeavesReport", "Reports", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div id="basic-form" class="section">
+        <div class="row">
+            <div class="col s12 m12 l10">
+                <div class="card-panel">
+                    <h4 class="header2">LEAVES REPORT</h4>
+                    <div class="row">
+                        <div class="col s12">
+
+
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    <label for="Datejoin">FROM DATE</label>
+                                    @Html.EditorFor(model => model.datefrom, new { htmlAttributes = new { @id = "Datejoin", @class = "datepicker" } })
+                                </div>
+                                <div class="input-field col s6">
+                                    <label for="Datejoin">TO DATE</label>
+                                    @Html.EditorFor(model => model.dateto, new { htmlAttributes = new { @id = "Datejoin", @class = "datepicker" } })
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <button class="btn cyan waves-effect waves-light right" type="submit" name="action">
+                                        Generate Report
+                                        <i class="mdi-content-send right"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
